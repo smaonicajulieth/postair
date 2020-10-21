@@ -1,0 +1,17 @@
+<script src="https://www.gstatic.com/firebasejs/6.2.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-database.js"></script>
+
+<script>
+  var firebaseConfig = {
+    apiKey: "AIzaSyB06AeKYfM87iXIxRBcVN7qbuQO4GxNF9I",
+    authDomain: "tutorialhack.firebaseapp.com",
+    databaseURL: "https://tutorialhack.firebaseio.com",
+    projectId: "tutorialhack",
+    storageBucket: "tutorialhack.appspot.com",
+    messagingSenderId: "928513800302",
+    appId: "1:928513800302:web:d7150e01c2541ab7550e7f"
+  };
+  firebase.initializeApp(firebaseConfig);
+</script>
+
+</html>
