@@ -5,7 +5,7 @@
   var firebaseConfig = {
     apiKey: "AIzaSyB06AeKYfM87iXIxRBcVN7qbuQO4GxNF9I",
     authDomain: "tutorialhack.firebaseapp.com",
-    databaseURL: "https://tutorialhack.firebaseio.com",
+    databaseURL: "",
     projectId: "tutorialhack",
     storageBucket: "tutorialhack.appspot.com",
     messagingSenderId: "928513800302",
